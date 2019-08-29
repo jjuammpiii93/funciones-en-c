@@ -1,0 +1,5 @@
+1 primero debes tener un repositorio creado con readme.
+2 para clonarlo uso el git clone.
+3 agregar los archivos nuevos o modificados (git add .).
+4 para guardolo en forma local (git commit -m "texto").
+5 subo todos los commit a github con (git push).
